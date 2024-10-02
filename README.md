@@ -1,5 +1,5 @@
-# 로봇지능 기말 프로젝트
-See Project:
+# AI 인공지능
+See Midterm and Final Project:
 https://sites.google.com/hanyang.ac.kr/2021ai
 
 
@@ -53,3 +53,6 @@ zip entire project files including git log
 $zip <MyName>.zip -r * .git
 ```
 then, upload <MyName>.zip to LMS homework submission.
+
+
+
